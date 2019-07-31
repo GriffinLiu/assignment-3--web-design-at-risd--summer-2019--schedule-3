@@ -1,7 +1,109 @@
 body {
-   background-color: white;
+   background-color: black;
 }
 
-#ABC:hover p {
+a:link {
+   text-decoration: none;
+}
+
+a:visited {
    color: white;
+}
+
+ul {
+   position: fixed;
+   left: 60px;
+   top: 10px;
+   margin: 40px auto;
+}
+
+li {
+   display: grid;
+   place-items: center;
+   color: white;
+   font-family: serif;
+   font-size: 30px;
+   text-align: center;
+   border: 3px solid white;
+   border-radius: 50%;
+   background: black;
+   width: 80px;
+   height: 80px;
+}
+
+#cover10 {
+   height: 1800px;
+   position: relative;
+   left: 200px;
+   z-index: -10;
+}
+
+#p101 {
+   height: 1800px;
+   position: relative;
+   left: 200px;
+   z-index: -10;
+}
+
+#p102 {
+   height: 1800px;
+   position: relative;
+   left: 200px;
+   z-index: -10;
+}
+
+#p103 {
+   height: 1800px;
+   position: relative;
+   left: 200px;
+   z-index: -10;
+}
+
+#p104 {
+   height: 1800px;
+   position: relative;
+   left: 200px;
+   z-index: -10;
+}
+
+#p105 {
+   height: 1800px;
+   position: relative;
+   left: 200px;
+   z-index: -10;
+}
+
+#p106 {
+   height: 1800px;
+   position: relative;
+   left: 200px;
+   z-index: -10;
+}
+
+#p107 {
+   height: 1800px;
+   position: relative;
+   left: 200px;
+   z-index: -10;
+}
+
+#p108 {
+   height: 1800px;
+   position: relative;
+   left: 200px;
+   z-index: -10;
+}
+
+#p109 {
+   height: 1800px;
+   position: relative;
+   left: 200px;
+   z-index: -10;
+}
+
+#p110 {
+   height: 1800px;
+   position: relative;
+   left: 200px;
+   z-index: -10;
 }
